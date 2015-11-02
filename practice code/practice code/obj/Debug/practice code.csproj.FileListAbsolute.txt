@@ -1,0 +1,6 @@
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\practice code\practice code\bin\Debug\practice code.exe.config
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\practice code\practice code\bin\Debug\practice code.exe
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\practice code\practice code\bin\Debug\practice code.pdb
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\practice code\practice code\obj\Debug\practice code.exe
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\practice code\practice code\obj\Debug\practice code.pdb
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\practice code\practice code\obj\Debug\practice code.csprojResolveAssemblyReference.cache
